@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+.container{
+	background-color:lightgray;
+	border:5px solid black;
+	border-radius:50px;
+	text-align:center;
+	display:inline-block;
+	padding:50px;
+	margin:20px
+
+}
